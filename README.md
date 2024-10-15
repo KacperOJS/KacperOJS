@@ -72,9 +72,10 @@
 ---
 ## Some of My Projects
 
-- **[Full-Stack Shop](#)** - A full-stack online shop project with C# Web API and React.
-- **[Game Server](#)** - Custom Tibia game server with integrated payment options (Stripe, PayPal).
-- **[Personal Portfolio](#)** - My personal website showcasing my projects and skills.
+- **[Game Server](https://worldofshinobi.pl)** - Custom Tibia game server with integrated payment options (Stripe, PayPal).
+- - **[Full-Stack Shop](http://141.144.237.34))** - A full-stack online shop project with C# Web API and React.
+- **[Personal Portfolio](YOUR_LINK_HERE)** - My personal website showcasing my projects and skills.
+
 
 ---
 
