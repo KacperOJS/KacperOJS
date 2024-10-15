@@ -11,10 +11,10 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **C++**
+- I’m currently learning **C++**
 - I’m looking to collaborate on **Full-Stack Projects**
-- 💬 Ask me about **C# and JavaScript**
-- 📫 How to reach me: **KacperOdziemczyk@gmail.com**
+- Ask me about **C# and JavaScript**
+- How to reach me: **KacperOdziemczyk@gmail.com**
 
 ---
 
